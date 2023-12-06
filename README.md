@@ -1,3 +1,4 @@
+# note this gut is a scammer so i posted this all the files are not obfuscated 
 This virus encrypts all files of the victim, or what is called Ransomware
 --------------------------------------------
  also plays an animated image that it cannot remove and locks all programs
